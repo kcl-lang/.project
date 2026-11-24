@@ -25,7 +25,7 @@ repositories:
 
 website: "https://kcl-lang.io/"
 
-artwork: "https://landscape.cncf.io/logos/kcl.svg"
+artwork: "https://github.com/cncf/artwork/tree/main/projects/kcl"
 
 adopters:
   path: "https://github.com/kcl-lang/kcl/blob/main/ADOPTERS.md"
